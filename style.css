@@ -67,7 +67,7 @@ section { padding: 4rem 0; }
 .header-nav { display: flex; align-items: center; gap: 1.5rem; list-style: none; }
 
 .header-nav a {
-  color: #b3b3b3;
+  color: #f8f5f5;
   text-decoration: none;
   font-weight: 600;
   font-size: 0.85rem;
