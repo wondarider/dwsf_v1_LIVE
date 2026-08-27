@@ -1,5 +1,6 @@
 // script.js
 
+// makes the site title in the header act like a “scroll to top” button
 document.addEventListener("DOMContentLoaded", () => {
   // site title scroll-to-top
   const siteTitle = document.querySelector(".header-title");
